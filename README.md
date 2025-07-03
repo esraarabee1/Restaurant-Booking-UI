@@ -11,6 +11,20 @@ A modern and responsive restaurant listing and booking interface built using **N
 - Smooth page routing with Next.js
 - Clean and organized code structure
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+![Homepage](./app/images/home.png)
+
+### 📄 Restaurant Details Page
+
+![Details](./app/images/restaurantfood.png)
+
+### 📅 Booking Form
+
+![Details](./app/images/restaurantdetails.png)
+
 ## 🛠️ Technologies Used
 
 - [Next.js](https://nextjs.org/)
